@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_udp_port_check",
+  "scripts": {
+    "server": "node ./server.js",
+    "scan": "node ./scan.js"
+  },
+  "author": "Danial Manavi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.16.18"
+  }
+}
